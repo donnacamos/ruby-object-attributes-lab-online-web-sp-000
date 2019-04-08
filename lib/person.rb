@@ -1,4 +1,4 @@
-class Person
+class Person # The setter and getter teach the object Person about itself 
   def name=(beyonce)
     @name = beyonce
   end
